@@ -1,12 +1,12 @@
 self.assetsManifest = {
-  "version": "VbND8OTS",
+  "version": "K7SC5Bjm",
   "assets": [
     {
       "hash": "sha256-kAaT1nmu0fLPcAJzuO2rI72DEXHFBi6rDRxhtIqJalo=",
       "url": "Crosswords.styles.css"
     },
     {
-      "hash": "sha256-GplHvCV+bk4UrCKbSYeBibTOIG87Xl9FXGELhagJmfk=",
+      "hash": "sha256-XNOLK44FeDoUOwSsI7R2IdKG89f78ACZR1lSIaZWeuI=",
       "url": "_framework/Crosswords.wasm"
     },
     {
@@ -110,7 +110,7 @@ self.assetsManifest = {
       "url": "_framework/System.Runtime.InteropServices.JavaScript.wasm"
     },
     {
-      "hash": "sha256-F3M3urvDEiphlYDP3ZxuHcW5UvFMxVXLLo67FmqOmDM=",
+      "hash": "sha256-6ZaPsZ4LDG2q3e65+oUTM+YywNdg8y6th8SbiDW8lpc=",
       "url": "_framework/System.Runtime.wasm"
     },
     {
@@ -126,7 +126,7 @@ self.assetsManifest = {
       "url": "_framework/System.Text.RegularExpressions.wasm"
     },
     {
-      "hash": "sha256-aawEL2lNAc9TJ8dZTzSKnm+kUnPvrXW9U2TkRC9hGMU=",
+      "hash": "sha256-ohY6uIwZd7NorysIXInnQ1ZujIZM0aaEYdfjPreLm78=",
       "url": "_framework/blazor.boot.json"
     },
     {
@@ -192,6 +192,46 @@ self.assetsManifest = {
     {
       "hash": "sha256-+1WLfF+JlKIGk0Ey9OfcMPY/HqBzmEWGQpOJEIwIpGo=",
       "url": "manifest.webmanifest"
+    },
+    {
+      "hash": "sha256-dVbJGFoUsQP4gSOT3itsepBUhIRVPw1uxfgT1azio5c=",
+      "url": "puzzles/Cycling.pdf"
+    },
+    {
+      "hash": "sha256-fJDKJYebfp90FgJTe8QbyCfefA4aL+tad6L0MdPXX4w=",
+      "url": "puzzles/Cycling.puz"
+    },
+    {
+      "hash": "sha256-jszrFEuRLYQlFhPYsLd7SWeRDNBDfzwYXVj2oTL+pUs=",
+      "url": "puzzles/No Place Like Home.pdf"
+    },
+    {
+      "hash": "sha256-F7u2JtIinQ4H1MFxW/YHhftpVaD3urnlXzq4WhPUZhQ=",
+      "url": "puzzles/No Place Like Home.puz"
+    },
+    {
+      "hash": "sha256-Gi1O5WyeDjGpqTotYglOWONkcrdZE5K2d3xF2hm/8p4=",
+      "url": "puzzles/On The Move.pdf"
+    },
+    {
+      "hash": "sha256-PBMYb6BZp1FYScwOeXwtUzJDSYMJ4Iv3cxfhI5ZKjlE=",
+      "url": "puzzles/On The Move.puz"
+    },
+    {
+      "hash": "sha256-p5gc/J+TZcpFpKUVIjp3CBtSEzGAGN8jKlbXlphNm5g=",
+      "url": "puzzles/On The Prowl.pdf"
+    },
+    {
+      "hash": "sha256-ktckSop7gwb0dyqYyqfnsboF8pdUKUvqTN0mZknhbfc=",
+      "url": "puzzles/On The Prowl.puz"
+    },
+    {
+      "hash": "sha256-qKuVbJzPNwjLMorTkE5bbYTvDAddxaLrxoXpPyTKnXA=",
+      "url": "puzzles/Whoops.pdf"
+    },
+    {
+      "hash": "sha256-k1JCDny7Ojd0eDTgOGxFCGczKU+dRU10VA4r500Nvts=",
+      "url": "puzzles/Whoops.puz"
     },
     {
       "hash": "sha256-enKgCMkYmCpfEcmg6Annbmc40VZ/A6aYYSQjZfVn2cU=",
