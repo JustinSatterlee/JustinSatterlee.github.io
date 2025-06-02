@@ -1,12 +1,12 @@
 self.assetsManifest = {
-  "version": "K7SC5Bjm",
+  "version": "mwgbbsOr",
   "assets": [
     {
       "hash": "sha256-kAaT1nmu0fLPcAJzuO2rI72DEXHFBi6rDRxhtIqJalo=",
       "url": "Crosswords.styles.css"
     },
     {
-      "hash": "sha256-XNOLK44FeDoUOwSsI7R2IdKG89f78ACZR1lSIaZWeuI=",
+      "hash": "sha256-L1zeEcWU4nTI1pktqg2HSe8nZHRh58cOFO/+QXIAxVY=",
       "url": "_framework/Crosswords.wasm"
     },
     {
@@ -126,7 +126,7 @@ self.assetsManifest = {
       "url": "_framework/System.Text.RegularExpressions.wasm"
     },
     {
-      "hash": "sha256-ohY6uIwZd7NorysIXInnQ1ZujIZM0aaEYdfjPreLm78=",
+      "hash": "sha256-kb6JKVsucQCleXDKIRp9oK7UMON8SeDMwdPfMKuL5Do=",
       "url": "_framework/blazor.boot.json"
     },
     {
