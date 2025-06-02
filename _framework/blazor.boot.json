@@ -1,7 +1,7 @@
 {
   "mainAssemblyName": "Crosswords",
   "resources": {
-    "hash": "sha256-8Q87SizVsRYcmRyYndJ9kFmKhrvR5sikLEYA5usrUwA=",
+    "hash": "sha256-7Z1l4StoUjpK5pKI2wZ+NyIE1GyyJEahUoVxbcznm8o=",
     "jsModuleNative": {
       "dotnet.native.js": "sha256-RiGT44TFZmHOY+Oqvb8o8r+BJVWex6+dPxFxrOiWvFY="
     },
@@ -18,7 +18,7 @@
     },
     "coreAssembly": {},
     "assembly": {
-      "Crosswords.wasm": "sha256-KlTRqve8b2KkokKVM1z3u5YOW0jTfC8RKiJ/bOMtGYg=",
+      "Crosswords.wasm": "sha256-GplHvCV+bk4UrCKbSYeBibTOIG87Xl9FXGELhagJmfk=",
       "Microsoft.AspNetCore.Components.wasm": "sha256-rDop597Gj35si5TporZn2XhQrL9+oe1OQxh/qJfSP2g=",
       "Microsoft.AspNetCore.Components.Web.wasm": "sha256-YBo05jwwpO4uPXIbILQOXgv5Yq9IgMFtG8Wxykcx7vY=",
       "Microsoft.AspNetCore.Components.WebAssembly.wasm": "sha256-9BvHREQWEIdW8gRIV5ZXtGyaHdxZw8eOrWJ1OqWrLT8=",
