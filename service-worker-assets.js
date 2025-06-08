@@ -1,12 +1,12 @@
 self.assetsManifest = {
-  "version": "mwgbbsOr",
+  "version": "ehmIgOKq",
   "assets": [
     {
       "hash": "sha256-kAaT1nmu0fLPcAJzuO2rI72DEXHFBi6rDRxhtIqJalo=",
       "url": "Crosswords.styles.css"
     },
     {
-      "hash": "sha256-L1zeEcWU4nTI1pktqg2HSe8nZHRh58cOFO/+QXIAxVY=",
+      "hash": "sha256-wsV17hOCXa0x9h6/e50JrpZog/WEkfeWwmYPeht2clQ=",
       "url": "_framework/Crosswords.wasm"
     },
     {
@@ -126,7 +126,7 @@ self.assetsManifest = {
       "url": "_framework/System.Text.RegularExpressions.wasm"
     },
     {
-      "hash": "sha256-kb6JKVsucQCleXDKIRp9oK7UMON8SeDMwdPfMKuL5Do=",
+      "hash": "sha256-hybyt0zwsTnnGyg7NEXYI1jepPBAnp/aiW/f6oi0cuk=",
       "url": "_framework/blazor.boot.json"
     },
     {
@@ -224,6 +224,14 @@ self.assetsManifest = {
     {
       "hash": "sha256-ktckSop7gwb0dyqYyqfnsboF8pdUKUvqTN0mZknhbfc=",
       "url": "puzzles/On The Prowl.puz"
+    },
+    {
+      "hash": "sha256-tPXZoaAOJUO+h2/8XSn4UrSwJVh88DHaVRrFk1zJ8N8=",
+      "url": "puzzles/Sattalini's Italian Eatery.pdf"
+    },
+    {
+      "hash": "sha256-4GAnEHFG+CLLuhFqVFEmqudXeT2IL648qbqirhZfm9Q=",
+      "url": "puzzles/Sattalini's Italian Eatery.puz"
     },
     {
       "hash": "sha256-qKuVbJzPNwjLMorTkE5bbYTvDAddxaLrxoXpPyTKnXA=",
